@@ -1,0 +1,820 @@
+[{
+  "_id": {
+    "$oid": "661310eb6518c92ffaf5faec"
+  },
+  "Region_sales": {
+    "Region": {
+      "region_id": 4,
+      "region_name": "Northeast"
+    },
+    "Game_platform": {
+      "game_platform_id": 4,
+      "Game_publisher": {
+        "game_publisher_id": 4,
+        "Game": {
+          "game_id": 4,
+          "Category": {
+            "category_id": 4
+          },
+          "game_name": "Assassin's Creed"
+        },
+        "Publisher": {
+          "publisher_id": 4,
+          "publisher_name": "Capcom"
+        }
+      },
+      "Game_pubisher": {
+        "Game": {
+          "Category": {
+            "category_name": "Pitching"
+          }
+        }
+      },
+      "Platform": {
+        "platform_id": 4,
+        "platform_name": "Android"
+      },
+      "release_year": 2004
+    },
+    "num_sales": 831193
+  }
+},
+{
+  "_id": {
+    "$oid": "661310eb6518c92ffaf5faee"
+  },
+  "Region_sales": {
+    "Region": {
+      "region_id": 6,
+      "region_name": "Tundra"
+    },
+    "Game_platform": {
+      "game_platform_id": 6,
+      "Game_publisher": {
+        "game_publisher_id": 6,
+        "Game": {
+          "game_id": 6,
+          "Category": {
+            "category_id": 6
+          },
+          "game_name": "Assassin's Creed"
+        },
+        "Publisher": {
+          "publisher_id": 6,
+          "publisher_name": "Ubisoft"
+        }
+      },
+      "Game_pubisher": {
+        "Game": {
+          "Category": {
+            "category_name": "Base Running"
+          }
+        }
+      },
+      "Platform": {
+        "platform_id": 6,
+        "platform_name": "VR"
+      },
+      "release_year": 2006
+    },
+    "num_sales": 798569
+  }
+},
+{
+  "_id": {
+    "$oid": "661310eb6518c92ffaf5faf0"
+  },
+  "Region_sales": {
+    "Region": {
+      "region_id": 8,
+      "region_name": "Northwest"
+    },
+    "Game_platform": {
+      "game_platform_id": 8,
+      "Game_publisher": {
+        "game_publisher_id": 8,
+        "Game": {
+          "game_id": 8,
+          "Category": {
+            "category_id": 8
+          },
+          "game_name": "Call of Duty"
+        },
+        "Publisher": {
+          "publisher_id": 8,
+          "publisher_name": "Square Enix"
+        }
+      },
+      "Game_pubisher": {
+        "Game": {
+          "Category": {
+            "category_name": "Defense"
+          }
+        }
+      },
+      "Platform": {
+        "platform_id": 8,
+        "platform_name": "Mac"
+      },
+      "release_year": 2012
+    },
+    "num_sales": 166785
+  }
+},
+{
+  "_id": {
+    "$oid": "661310eb6518c92ffaf5faf1"
+  },
+  "Region_sales": {
+    "Region": {
+      "region_id": 9,
+      "region_name": "South"
+    },
+    "Game_platform": {
+      "game_platform_id": 9,
+      "Game_publisher": {
+        "game_publisher_id": 9,
+        "Game": {
+          "game_id": 9,
+          "Category": {
+            "category_id": 9
+          },
+          "game_name": "Assassin's Creed"
+        },
+        "Publisher": {
+          "publisher_id": 9,
+          "publisher_name": "Nintendo"
+        }
+      },
+      "Game_pubisher": {
+        "Game": {
+          "Category": {
+            "category_name": "Pitching"
+          }
+        }
+      },
+      "Platform": {
+        "platform_id": 9,
+        "platform_name": "VR"
+      },
+      "release_year": 2009
+    },
+    "num_sales": 855508
+  }
+},
+{
+  "_id": {
+    "$oid": "661310eb6518c92ffaf5faf8"
+  },
+  "Region_sales": {
+    "Region": {
+      "region_id": 16,
+      "region_name": "Mountain"
+    },
+    "Game_platform": {
+      "game_platform_id": 16,
+      "Game_publisher": {
+        "game_publisher_id": 16,
+        "Game": {
+          "game_id": 16,
+          "Category": {
+            "category_id": 16
+          },
+          "game_name": "Call of Duty"
+        },
+        "Publisher": {
+          "publisher_id": 16,
+          "publisher_name": "Electronic Arts"
+        }
+      },
+      "Game_pubisher": {
+        "Game": {
+          "Category": {
+            "category_name": "Fielding"
+          }
+        }
+      },
+      "Platform": {
+        "platform_id": 16,
+        "platform_name": "PlayStation"
+      },
+      "release_year": 2003
+    },
+    "num_sales": 743667
+  }
+},
+{
+  "_id": {
+    "$oid": "661310eb6518c92ffaf5faf9"
+  },
+  "Region_sales": {
+    "Region": {
+      "region_id": 17,
+      "region_name": "Plains"
+    },
+    "Game_platform": {
+      "game_platform_id": 17,
+      "Game_publisher": {
+        "game_publisher_id": 17,
+        "Game": {
+          "game_id": 17,
+          "Category": {
+            "category_id": 17
+          },
+          "game_name": "Call of Duty"
+        },
+        "Publisher": {
+          "publisher_id": 17,
+          "publisher_name": "Capcom"
+        }
+      },
+      "Game_pubisher": {
+        "Game": {
+          "Category": {
+            "category_name": "Offense"
+          }
+        }
+      },
+      "Platform": {
+        "platform_id": 17,
+        "platform_name": "Mobile"
+      },
+      "release_year": 2006
+    },
+    "num_sales": 584534
+  }
+},
+{
+  "_id": {
+    "$oid": "661310eb6518c92ffaf5fafc"
+  },
+  "Region_sales": {
+    "Region": {
+      "region_id": 20,
+      "region_name": "Central"
+    },
+    "Game_platform": {
+      "game_platform_id": 20,
+      "Game_publisher": {
+        "game_publisher_id": 20,
+        "Game": {
+          "game_id": 20,
+          "Category": {
+            "category_id": 20
+          },
+          "game_name": "Call of Duty"
+        },
+        "Publisher": {
+          "publisher_id": 20,
+          "publisher_name": "Electronic Arts"
+        }
+      },
+      "Game_pubisher": {
+        "Game": {
+          "Category": {
+            "category_name": "Defense"
+          }
+        }
+      },
+      "Platform": {
+        "platform_id": 20,
+        "platform_name": "PlayStation"
+      },
+      "release_year": 2006
+    },
+    "num_sales": 116662
+  }
+},
+{
+  "_id": {
+    "$oid": "661310eb6518c92ffaf5fb01"
+  },
+  "Region_sales": {
+    "Region": {
+      "region_id": 25,
+      "region_name": "Plains"
+    },
+    "Game_platform": {
+      "game_platform_id": 25,
+      "Game_publisher": {
+        "game_publisher_id": 25,
+        "Game": {
+          "game_id": 25,
+          "Category": {
+            "category_id": 25
+          },
+          "game_name": "Call of Duty"
+        },
+        "Publisher": {
+          "publisher_id": 25,
+          "publisher_name": "Ubisoft"
+        }
+      },
+      "Game_pubisher": {
+        "Game": {
+          "Category": {
+            "category_name": "Fielding"
+          }
+        }
+      },
+      "Platform": {
+        "platform_id": 25,
+        "platform_name": "VR"
+      },
+      "release_year": 2007
+    },
+    "num_sales": 708285
+  }
+},
+{
+  "_id": {
+    "$oid": "661310eb6518c92ffaf5fb1a"
+  },
+  "Region_sales": {
+    "Region": {
+      "region_id": 50,
+      "region_name": "Islands"
+    },
+    "Game_platform": {
+      "game_platform_id": 50,
+      "Game_publisher": {
+        "game_publisher_id": 50,
+        "Game": {
+          "game_id": 50,
+          "Category": {
+            "category_id": 50
+          },
+          "game_name": "Assassin's Creed"
+        },
+        "Publisher": {
+          "publisher_id": 50,
+          "publisher_name": "Capcom"
+        }
+      },
+      "Game_pubisher": {
+        "Game": {
+          "Category": {
+            "category_name": "Pitching"
+          }
+        }
+      },
+      "Platform": {
+        "platform_id": 50,
+        "platform_name": "Mac"
+      },
+      "release_year": 2003
+    },
+    "num_sales": 982356
+  }
+},
+{
+  "_id": {
+    "$oid": "661310eb6518c92ffaf5fb1e"
+  },
+  "Region_sales": {
+    "Region": {
+      "region_id": 54,
+      "region_name": "Southeast"
+    },
+    "Game_platform": {
+      "game_platform_id": 54,
+      "Game_publisher": {
+        "game_publisher_id": 54,
+        "Game": {
+          "game_id": 54,
+          "Category": {
+            "category_id": 54
+          },
+          "game_name": "Assassin's Creed"
+        },
+        "Publisher": {
+          "publisher_id": 54,
+          "publisher_name": "Ubisoft"
+        }
+      },
+      "Game_pubisher": {
+        "Game": {
+          "Category": {
+            "category_name": "Fielding"
+          }
+        }
+      },
+      "Platform": {
+        "platform_id": 54,
+        "platform_name": "PlayStation"
+      },
+      "release_year": 2001
+    },
+    "num_sales": 847940
+  }
+},
+{
+  "_id": {
+    "$oid": "661310eb6518c92ffaf5fb24"
+  },
+  "Region_sales": {
+    "Region": {
+      "region_id": 60,
+      "region_name": "Central"
+    },
+    "Game_platform": {
+      "game_platform_id": 60,
+      "Game_publisher": {
+        "game_publisher_id": 60,
+        "Game": {
+          "game_id": 60,
+          "Category": {
+            "category_id": 60
+          },
+          "game_name": "Assassin's Creed"
+        },
+        "Publisher": {
+          "publisher_id": 60,
+          "publisher_name": "Electronic Arts"
+        }
+      },
+      "Game_pubisher": {
+        "Game": {
+          "Category": {
+            "category_name": "Base Running"
+          }
+        }
+      },
+      "Platform": {
+        "platform_id": 60,
+        "platform_name": "Android"
+      },
+      "release_year": 2001
+    },
+    "num_sales": 913354
+  }
+},
+{
+  "_id": {
+    "$oid": "661310eb6518c92ffaf5fb28"
+  },
+  "Region_sales": {
+    "Region": {
+      "region_id": 64,
+      "region_name": "Atlantic"
+    },
+    "Game_platform": {
+      "game_platform_id": 64,
+      "Game_publisher": {
+        "game_publisher_id": 64,
+        "Game": {
+          "game_id": 64,
+          "Category": {
+            "category_id": 64
+          },
+          "game_name": "Assassin's Creed"
+        },
+        "Publisher": {
+          "publisher_id": 64,
+          "publisher_name": "Microsoft Studios"
+        }
+      },
+      "Game_pubisher": {
+        "Game": {
+          "Category": {
+            "category_name": "Pitching"
+          }
+        }
+      },
+      "Platform": {
+        "platform_id": 64,
+        "platform_name": "Mobile"
+      },
+      "release_year": 2001
+    },
+    "num_sales": 454083
+  }
+},
+{
+  "_id": {
+    "$oid": "661310eb6518c92ffaf5fb29"
+  },
+  "Region_sales": {
+    "Region": {
+      "region_id": 65,
+      "region_name": "Southeast"
+    },
+    "Game_platform": {
+      "game_platform_id": 65,
+      "Game_publisher": {
+        "game_publisher_id": 65,
+        "Game": {
+          "game_id": 65,
+          "Category": {
+            "category_id": 65
+          },
+          "game_name": "Assassin's Creed"
+        },
+        "Publisher": {
+          "publisher_id": 65,
+          "publisher_name": "Bethesda Softworks"
+        }
+      },
+      "Game_pubisher": {
+        "Game": {
+          "Category": {
+            "category_name": "Fielding"
+          }
+        }
+      },
+      "Platform": {
+        "platform_id": 65,
+        "platform_name": "Android"
+      },
+      "release_year": 2011
+    },
+    "num_sales": 438280
+  }
+},
+{
+  "_id": {
+    "$oid": "661310eb6518c92ffaf5fb2c"
+  },
+  "Region_sales": {
+    "Region": {
+      "region_id": 68,
+      "region_name": "Northwest"
+    },
+    "Game_platform": {
+      "game_platform_id": 68,
+      "Game_publisher": {
+        "game_publisher_id": 68,
+        "Game": {
+          "game_id": 68,
+          "Category": {
+            "category_id": 68
+          },
+          "game_name": "Assassin's Creed"
+        },
+        "Publisher": {
+          "publisher_id": 68,
+          "publisher_name": "Microsoft Studios"
+        }
+      },
+      "Game_pubisher": {
+        "Game": {
+          "Category": {
+            "category_name": "Pitching"
+          }
+        }
+      },
+      "Platform": {
+        "platform_id": 68,
+        "platform_name": "PlayStation"
+      },
+      "release_year": 2011
+    },
+    "num_sales": 791067
+  }
+},
+{
+  "_id": {
+    "$oid": "661310eb6518c92ffaf5fb30"
+  },
+  "Region_sales": {
+    "Region": {
+      "region_id": 72,
+      "region_name": "Northeast"
+    },
+    "Game_platform": {
+      "game_platform_id": 72,
+      "Game_publisher": {
+        "game_publisher_id": 72,
+        "Game": {
+          "game_id": 72,
+          "Category": {
+            "category_id": 72
+          },
+          "game_name": "Assassin's Creed"
+        },
+        "Publisher": {
+          "publisher_id": 72,
+          "publisher_name": "Bandai Namco"
+        }
+      },
+      "Game_pubisher": {
+        "Game": {
+          "Category": {
+            "category_name": "Fielding"
+          }
+        }
+      },
+      "Platform": {
+        "platform_id": 72,
+        "platform_name": "Xbox"
+      },
+      "release_year": 2005
+    },
+    "num_sales": 362650
+  }
+},
+{
+  "_id": {
+    "$oid": "661310eb6518c92ffaf5fb36"
+  },
+  "Region_sales": {
+    "Region": {
+      "region_id": 78,
+      "region_name": "Tundra"
+    },
+    "Game_platform": {
+      "game_platform_id": 78,
+      "Game_publisher": {
+        "game_publisher_id": 78,
+        "Game": {
+          "game_id": 78,
+          "Category": {
+            "category_id": 78
+          },
+          "game_name": "Assassin's Creed"
+        },
+        "Publisher": {
+          "publisher_id": 78,
+          "publisher_name": "Square Enix"
+        }
+      },
+      "Game_pubisher": {
+        "Game": {
+          "Category": {
+            "category_name": "Fielding"
+          }
+        }
+      },
+      "Platform": {
+        "platform_id": 78,
+        "platform_name": "Nintendo Switch"
+      },
+      "release_year": 2002
+    },
+    "num_sales": 515814
+  }
+},
+{
+  "_id": {
+    "$oid": "661310eb6518c92ffaf5fb37"
+  },
+  "Region_sales": {
+    "Region": {
+      "region_id": 79,
+      "region_name": "Southeast"
+    },
+    "Game_platform": {
+      "game_platform_id": 79,
+      "Game_publisher": {
+        "game_publisher_id": 79,
+        "Game": {
+          "game_id": 79,
+          "Category": {
+            "category_id": 79
+          },
+          "game_name": "Assassin's Creed"
+        },
+        "Publisher": {
+          "publisher_id": 79,
+          "publisher_name": "Bethesda Softworks"
+        }
+      },
+      "Game_pubisher": {
+        "Game": {
+          "Category": {
+            "category_name": "Offense"
+          }
+        }
+      },
+      "Platform": {
+        "platform_id": 79,
+        "platform_name": "VR"
+      },
+      "release_year": 2009
+    },
+    "num_sales": 546112
+  }
+},
+{
+  "_id": {
+    "$oid": "661310eb6518c92ffaf5fb3c"
+  },
+  "Region_sales": {
+    "Region": {
+      "region_id": 84,
+      "region_name": "Atlantic"
+    },
+    "Game_platform": {
+      "game_platform_id": 84,
+      "Game_publisher": {
+        "game_publisher_id": 84,
+        "Game": {
+          "game_id": 84,
+          "Category": {
+            "category_id": 84
+          },
+          "game_name": "Assassin's Creed"
+        },
+        "Publisher": {
+          "publisher_id": 84,
+          "publisher_name": "Electronic Arts"
+        }
+      },
+      "Game_pubisher": {
+        "Game": {
+          "Category": {
+            "category_name": "Offense"
+          }
+        }
+      },
+      "Platform": {
+        "platform_id": 84,
+        "platform_name": "iOS"
+      },
+      "release_year": 2010
+    },
+    "num_sales": 775600
+  }
+},
+{
+  "_id": {
+    "$oid": "661310eb6518c92ffaf5fb43"
+  },
+  "Region_sales": {
+    "Region": {
+      "region_id": 91,
+      "region_name": "Great Lakes"
+    },
+    "Game_platform": {
+      "game_platform_id": 91,
+      "Game_publisher": {
+        "game_publisher_id": 91,
+        "Game": {
+          "game_id": 91,
+          "Category": {
+            "category_id": 91
+          },
+          "game_name": "Assassin's Creed"
+        },
+        "Publisher": {
+          "publisher_id": 91,
+          "publisher_name": "Bethesda Softworks"
+        }
+      },
+      "Game_pubisher": {
+        "Game": {
+          "Category": {
+            "category_name": "Defense"
+          }
+        }
+      },
+      "Platform": {
+        "platform_id": 91,
+        "platform_name": "Xbox"
+      },
+      "release_year": 2004
+    },
+    "num_sales": 115052
+  }
+},
+{
+  "_id": {
+    "$oid": "661310eb6518c92ffaf5fb45"
+  },
+  "Region_sales": {
+    "Region": {
+      "region_id": 93,
+      "region_name": "Plains"
+    },
+    "Game_platform": {
+      "game_platform_id": 93,
+      "Game_publisher": {
+        "game_publisher_id": 93,
+        "Game": {
+          "game_id": 93,
+          "Category": {
+            "category_id": 93
+          },
+          "game_name": "Call of Duty"
+        },
+        "Publisher": {
+          "publisher_id": 93,
+          "publisher_name": "Sony Interactive Entertainment"
+        }
+      },
+      "Game_pubisher": {
+        "Game": {
+          "Category": {
+            "category_name": "Fielding"
+          }
+        }
+      },
+      "Platform": {
+        "platform_id": 93,
+        "platform_name": "Linux"
+      },
+      "release_year": 2002
+    },
+    "num_sales": 409688
+  }
+}]

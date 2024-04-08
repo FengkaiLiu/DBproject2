@@ -1,0 +1,533 @@
+[{
+  "_id": {
+    "$oid": "661310eb6518c92ffaf5fafe"
+  },
+  "Region_sales": {
+    "Region": {
+      "region_id": 22,
+      "region_name": "Northwest"
+    },
+    "Game_platform": {
+      "game_platform_id": 22,
+      "Game_publisher": {
+        "game_publisher_id": 22,
+        "Game": {
+          "game_id": 22,
+          "Category": {
+            "category_id": 22
+          },
+          "game_name": "Final Fantasy"
+        },
+        "Publisher": {
+          "publisher_id": 22,
+          "publisher_name": "Bandai Namco"
+        }
+      },
+      "Game_pubisher": {
+        "Game": {
+          "Category": {
+            "category_name": "Pitching"
+          }
+        }
+      },
+      "Platform": {
+        "platform_id": 22,
+        "platform_name": "Android"
+      },
+      "release_year": 2008
+    },
+    "num_sales": 282766
+  }
+},
+{
+  "_id": {
+    "$oid": "661310eb6518c92ffaf5fb10"
+  },
+  "Region_sales": {
+    "Region": {
+      "region_id": 40,
+      "region_name": "Midwest"
+    },
+    "Game_platform": {
+      "game_platform_id": 40,
+      "Game_publisher": {
+        "game_publisher_id": 40,
+        "Game": {
+          "game_id": 40,
+          "Category": {
+            "category_id": 40
+          },
+          "game_name": "Final Fantasy"
+        },
+        "Publisher": {
+          "publisher_id": 40,
+          "publisher_name": "Capcom"
+        }
+      },
+      "Game_pubisher": {
+        "Game": {
+          "Category": {
+            "category_name": "Offense"
+          }
+        }
+      },
+      "Platform": {
+        "platform_id": 40,
+        "platform_name": "VR"
+      },
+      "release_year": 2004
+    },
+    "num_sales": 975926
+  }
+},
+{
+  "_id": {
+    "$oid": "661310eb6518c92ffaf5fb15"
+  },
+  "Region_sales": {
+    "Region": {
+      "region_id": 45,
+      "region_name": "Gulf Coast"
+    },
+    "Game_platform": {
+      "game_platform_id": 45,
+      "Game_publisher": {
+        "game_publisher_id": 45,
+        "Game": {
+          "game_id": 45,
+          "Category": {
+            "category_id": 45
+          },
+          "game_name": "Final Fantasy"
+        },
+        "Publisher": {
+          "publisher_id": 45,
+          "publisher_name": "Bandai Namco"
+        }
+      },
+      "Game_pubisher": {
+        "Game": {
+          "Category": {
+            "category_name": "Base Running"
+          }
+        }
+      },
+      "Platform": {
+        "platform_id": 45,
+        "platform_name": "Mobile"
+      },
+      "release_year": 1969
+    },
+    "num_sales": 438250
+  }
+},
+{
+  "_id": {
+    "$oid": "661310eb6518c92ffaf5fb16"
+  },
+  "Region_sales": {
+    "Region": {
+      "region_id": 46,
+      "region_name": "Mountain"
+    },
+    "Game_platform": {
+      "game_platform_id": 46,
+      "Game_publisher": {
+        "game_publisher_id": 46,
+        "Game": {
+          "game_id": 46,
+          "Category": {
+            "category_id": 46
+          },
+          "game_name": "Final Fantasy"
+        },
+        "Publisher": {
+          "publisher_id": 46,
+          "publisher_name": "Nintendo"
+        }
+      },
+      "Game_pubisher": {
+        "Game": {
+          "Category": {
+            "category_name": "Fielding"
+          }
+        }
+      },
+      "Platform": {
+        "platform_id": 46,
+        "platform_name": "PlayStation"
+      },
+      "release_year": 2003
+    },
+    "num_sales": 786005
+  }
+},
+{
+  "_id": {
+    "$oid": "661310eb6518c92ffaf5fb17"
+  },
+  "Region_sales": {
+    "Region": {
+      "region_id": 47,
+      "region_name": "Northeast"
+    },
+    "Game_platform": {
+      "game_platform_id": 47,
+      "Game_publisher": {
+        "game_publisher_id": 47,
+        "Game": {
+          "game_id": 47,
+          "Category": {
+            "category_id": 47
+          },
+          "game_name": "Final Fantasy"
+        },
+        "Publisher": {
+          "publisher_id": 47,
+          "publisher_name": "Nintendo"
+        }
+      },
+      "Game_pubisher": {
+        "Game": {
+          "Category": {
+            "category_name": "Base Running"
+          }
+        }
+      },
+      "Platform": {
+        "platform_id": 47,
+        "platform_name": "iOS"
+      },
+      "release_year": 2005
+    },
+    "num_sales": 692514
+  }
+},
+{
+  "_id": {
+    "$oid": "661310eb6518c92ffaf5fb22"
+  },
+  "Region_sales": {
+    "Region": {
+      "region_id": 58,
+      "region_name": "Islands"
+    },
+    "Game_platform": {
+      "game_platform_id": 58,
+      "Game_publisher": {
+        "game_publisher_id": 58,
+        "Game": {
+          "game_id": 58,
+          "Category": {
+            "category_id": 58
+          },
+          "game_name": "Final Fantasy"
+        },
+        "Publisher": {
+          "publisher_id": 58,
+          "publisher_name": "Bethesda Softworks"
+        }
+      },
+      "Game_pubisher": {
+        "Game": {
+          "Category": {
+            "category_name": "Fielding"
+          }
+        }
+      },
+      "Platform": {
+        "platform_id": 58,
+        "platform_name": "VR"
+      },
+      "release_year": 1986
+    },
+    "num_sales": 260105
+  }
+},
+{
+  "_id": {
+    "$oid": "661310eb6518c92ffaf5fb33"
+  },
+  "Region_sales": {
+    "Region": {
+      "region_id": 75,
+      "region_name": "Pacific"
+    },
+    "Game_platform": {
+      "game_platform_id": 75,
+      "Game_publisher": {
+        "game_publisher_id": 75,
+        "Game": {
+          "game_id": 75,
+          "Category": {
+            "category_id": 75
+          },
+          "game_name": "Final Fantasy"
+        },
+        "Publisher": {
+          "publisher_id": 75,
+          "publisher_name": "Ubisoft"
+        }
+      },
+      "Game_pubisher": {
+        "Game": {
+          "Category": {
+            "category_name": "Base Running"
+          }
+        }
+      },
+      "Platform": {
+        "platform_id": 75,
+        "platform_name": "Android"
+      },
+      "release_year": 2010
+    },
+    "num_sales": 494169
+  }
+},
+{
+  "_id": {
+    "$oid": "661310eb6518c92ffaf5fb39"
+  },
+  "Region_sales": {
+    "Region": {
+      "region_id": 81,
+      "region_name": "Mountain"
+    },
+    "Game_platform": {
+      "game_platform_id": 81,
+      "Game_publisher": {
+        "game_publisher_id": 81,
+        "Game": {
+          "game_id": 81,
+          "Category": {
+            "category_id": 81
+          },
+          "game_name": "Final Fantasy"
+        },
+        "Publisher": {
+          "publisher_id": 81,
+          "publisher_name": "Capcom"
+        }
+      },
+      "Game_pubisher": {
+        "Game": {
+          "Category": {
+            "category_name": "Defense"
+          }
+        }
+      },
+      "Platform": {
+        "platform_id": 81,
+        "platform_name": "VR"
+      },
+      "release_year": 1998
+    },
+    "num_sales": 141276
+  }
+},
+{
+  "_id": {
+    "$oid": "661310eb6518c92ffaf5fb3a"
+  },
+  "Region_sales": {
+    "Region": {
+      "region_id": 82,
+      "region_name": "East"
+    },
+    "Game_platform": {
+      "game_platform_id": 82,
+      "Game_publisher": {
+        "game_publisher_id": 82,
+        "Game": {
+          "game_id": 82,
+          "Category": {
+            "category_id": 82
+          },
+          "game_name": "Final Fantasy"
+        },
+        "Publisher": {
+          "publisher_id": 82,
+          "publisher_name": "Bethesda Softworks"
+        }
+      },
+      "Game_pubisher": {
+        "Game": {
+          "Category": {
+            "category_name": "Fielding"
+          }
+        }
+      },
+      "Platform": {
+        "platform_id": 82,
+        "platform_name": "Mac"
+      },
+      "release_year": 2004
+    },
+    "num_sales": 811750
+  }
+},
+{
+  "_id": {
+    "$oid": "661310eb6518c92ffaf5fb3d"
+  },
+  "Region_sales": {
+    "Region": {
+      "region_id": 85,
+      "region_name": "Desert"
+    },
+    "Game_platform": {
+      "game_platform_id": 85,
+      "Game_publisher": {
+        "game_publisher_id": 85,
+        "Game": {
+          "game_id": 85,
+          "Category": {
+            "category_id": 85
+          },
+          "game_name": "Final Fantasy"
+        },
+        "Publisher": {
+          "publisher_id": 85,
+          "publisher_name": "Sony Interactive Entertainment"
+        }
+      },
+      "Game_pubisher": {
+        "Game": {
+          "Category": {
+            "category_name": "Base Running"
+          }
+        }
+      },
+      "Platform": {
+        "platform_id": 85,
+        "platform_name": "Android"
+      },
+      "release_year": 2009
+    },
+    "num_sales": 429171
+  }
+},
+{
+  "_id": {
+    "$oid": "661310eb6518c92ffaf5fb40"
+  },
+  "Region_sales": {
+    "Region": {
+      "region_id": 88,
+      "region_name": "Midwest"
+    },
+    "Game_platform": {
+      "game_platform_id": 88,
+      "Game_publisher": {
+        "game_publisher_id": 88,
+        "Game": {
+          "game_id": 88,
+          "Category": {
+            "category_id": 88
+          },
+          "game_name": "Final Fantasy"
+        },
+        "Publisher": {
+          "publisher_id": 88,
+          "publisher_name": "Sony Interactive Entertainment"
+        }
+      },
+      "Game_pubisher": {
+        "Game": {
+          "Category": {
+            "category_name": "Base Running"
+          }
+        }
+      },
+      "Platform": {
+        "platform_id": 88,
+        "platform_name": "PlayStation"
+      },
+      "release_year": 2007
+    },
+    "num_sales": 156578
+  }
+},
+{
+  "_id": {
+    "$oid": "661310eb6518c92ffaf5fb46"
+  },
+  "Region_sales": {
+    "Region": {
+      "region_id": 94,
+      "region_name": "East"
+    },
+    "Game_platform": {
+      "game_platform_id": 94,
+      "Game_publisher": {
+        "game_publisher_id": 94,
+        "Game": {
+          "game_id": 94,
+          "Category": {
+            "category_id": 94
+          },
+          "game_name": "Final Fantasy"
+        },
+        "Publisher": {
+          "publisher_id": 94,
+          "publisher_name": "Ubisoft"
+        }
+      },
+      "Game_pubisher": {
+        "Game": {
+          "Category": {
+            "category_name": "Base Running"
+          }
+        }
+      },
+      "Platform": {
+        "platform_id": 94,
+        "platform_name": "Nintendo Switch"
+      },
+      "release_year": 2001
+    },
+    "num_sales": 579124
+  }
+},
+{
+  "_id": {
+    "$oid": "661310eb6518c92ffaf5fb4a"
+  },
+  "Region_sales": {
+    "Region": {
+      "region_id": 98,
+      "region_name": "Mountain"
+    },
+    "Game_platform": {
+      "game_platform_id": 98,
+      "Game_publisher": {
+        "game_publisher_id": 98,
+        "Game": {
+          "game_id": 98,
+          "Category": {
+            "category_id": 98
+          },
+          "game_name": "Final Fantasy"
+        },
+        "Publisher": {
+          "publisher_id": 98,
+          "publisher_name": "Bandai Namco"
+        }
+      },
+      "Game_pubisher": {
+        "Game": {
+          "Category": {
+            "category_name": "Base Running"
+          }
+        }
+      },
+      "Platform": {
+        "platform_id": 98,
+        "platform_name": "PlayStation"
+      },
+      "release_year": 2004
+    },
+    "num_sales": 907912
+  }
+}]

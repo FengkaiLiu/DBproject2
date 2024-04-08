@@ -1,0 +1,533 @@
+[{
+  "_id": {
+    "$oid": "661310eb6518c92ffaf5fb03"
+  },
+  "Region_sales": {
+    "Region": {
+      "region_id": 27,
+      "region_name": "Southwest"
+    },
+    "Game_platform": {
+      "game_platform_id": 27,
+      "Game_publisher": {
+        "game_publisher_id": 27,
+        "Game": {
+          "game_id": 27,
+          "Category": {
+            "category_id": 27
+          },
+          "game_name": "Halo"
+        },
+        "Publisher": {
+          "publisher_id": 27,
+          "publisher_name": "Electronic Arts"
+        }
+      },
+      "Game_pubisher": {
+        "Game": {
+          "Category": {
+            "category_name": "Pitching"
+          }
+        }
+      },
+      "Platform": {
+        "platform_id": 27,
+        "platform_name": "PlayStation"
+      },
+      "release_year": 2004
+    },
+    "num_sales": 544197
+  }
+},
+{
+  "_id": {
+    "$oid": "661310eb6518c92ffaf5fb05"
+  },
+  "Region_sales": {
+    "Region": {
+      "region_id": 29,
+      "region_name": "Gulf Coast"
+    },
+    "Game_platform": {
+      "game_platform_id": 29,
+      "Game_publisher": {
+        "game_publisher_id": 29,
+        "Game": {
+          "game_id": 29,
+          "Category": {
+            "category_id": 29
+          },
+          "game_name": "Halo"
+        },
+        "Publisher": {
+          "publisher_id": 29,
+          "publisher_name": "Bandai Namco"
+        }
+      },
+      "Game_pubisher": {
+        "Game": {
+          "Category": {
+            "category_name": "Base Running"
+          }
+        }
+      },
+      "Platform": {
+        "platform_id": 29,
+        "platform_name": "Linux"
+      },
+      "release_year": 1999
+    },
+    "num_sales": 890865
+  }
+},
+{
+  "_id": {
+    "$oid": "661310eb6518c92ffaf5fb06"
+  },
+  "Region_sales": {
+    "Region": {
+      "region_id": 30,
+      "region_name": "Midwest"
+    },
+    "Game_platform": {
+      "game_platform_id": 30,
+      "Game_publisher": {
+        "game_publisher_id": 30,
+        "Game": {
+          "game_id": 30,
+          "Category": {
+            "category_id": 30
+          },
+          "game_name": "Halo"
+        },
+        "Publisher": {
+          "publisher_id": 30,
+          "publisher_name": "Sony Interactive Entertainment"
+        }
+      },
+      "Game_pubisher": {
+        "Game": {
+          "Category": {
+            "category_name": "Fielding"
+          }
+        }
+      },
+      "Platform": {
+        "platform_id": 30,
+        "platform_name": "Xbox"
+      },
+      "release_year": 2011
+    },
+    "num_sales": 721234
+  }
+},
+{
+  "_id": {
+    "$oid": "661310eb6518c92ffaf5fb0b"
+  },
+  "Region_sales": {
+    "Region": {
+      "region_id": 35,
+      "region_name": "Southwest"
+    },
+    "Game_platform": {
+      "game_platform_id": 35,
+      "Game_publisher": {
+        "game_publisher_id": 35,
+        "Game": {
+          "game_id": 35,
+          "Category": {
+            "category_id": 35
+          },
+          "game_name": "Halo"
+        },
+        "Publisher": {
+          "publisher_id": 35,
+          "publisher_name": "Square Enix"
+        }
+      },
+      "Game_pubisher": {
+        "Game": {
+          "Category": {
+            "category_name": "Pitching"
+          }
+        }
+      },
+      "Platform": {
+        "platform_id": 35,
+        "platform_name": "PlayStation"
+      },
+      "release_year": 2005
+    },
+    "num_sales": 355492
+  }
+},
+{
+  "_id": {
+    "$oid": "661310eb6518c92ffaf5fb0f"
+  },
+  "Region_sales": {
+    "Region": {
+      "region_id": 39,
+      "region_name": "Atlantic"
+    },
+    "Game_platform": {
+      "game_platform_id": 39,
+      "Game_publisher": {
+        "game_publisher_id": 39,
+        "Game": {
+          "game_id": 39,
+          "Category": {
+            "category_id": 39
+          },
+          "game_name": "Halo"
+        },
+        "Publisher": {
+          "publisher_id": 39,
+          "publisher_name": "Nintendo"
+        }
+      },
+      "Game_pubisher": {
+        "Game": {
+          "Category": {
+            "category_name": "Base Running"
+          }
+        }
+      },
+      "Platform": {
+        "platform_id": 39,
+        "platform_name": "Linux"
+      },
+      "release_year": 2000
+    },
+    "num_sales": 829461
+  }
+},
+{
+  "_id": {
+    "$oid": "661310eb6518c92ffaf5fb18"
+  },
+  "Region_sales": {
+    "Region": {
+      "region_id": 48,
+      "region_name": "Tundra"
+    },
+    "Game_platform": {
+      "game_platform_id": 48,
+      "Game_publisher": {
+        "game_publisher_id": 48,
+        "Game": {
+          "game_id": 48,
+          "Category": {
+            "category_id": 48
+          },
+          "game_name": "Halo"
+        },
+        "Publisher": {
+          "publisher_id": 48,
+          "publisher_name": "Bandai Namco"
+        }
+      },
+      "Game_pubisher": {
+        "Game": {
+          "Category": {
+            "category_name": "Pitching"
+          }
+        }
+      },
+      "Platform": {
+        "platform_id": 48,
+        "platform_name": "iOS"
+      },
+      "release_year": 1993
+    },
+    "num_sales": 505808
+  }
+},
+{
+  "_id": {
+    "$oid": "661310eb6518c92ffaf5fb26"
+  },
+  "Region_sales": {
+    "Region": {
+      "region_id": 62,
+      "region_name": "Southeast"
+    },
+    "Game_platform": {
+      "game_platform_id": 62,
+      "Game_publisher": {
+        "game_publisher_id": 62,
+        "Game": {
+          "game_id": 62,
+          "Category": {
+            "category_id": 62
+          },
+          "game_name": "Halo"
+        },
+        "Publisher": {
+          "publisher_id": 62,
+          "publisher_name": "Capcom"
+        }
+      },
+      "Game_pubisher": {
+        "Game": {
+          "Category": {
+            "category_name": "Pitching"
+          }
+        }
+      },
+      "Platform": {
+        "platform_id": 62,
+        "platform_name": "Mac"
+      },
+      "release_year": 2006
+    },
+    "num_sales": 370342
+  }
+},
+{
+  "_id": {
+    "$oid": "661310eb6518c92ffaf5fb27"
+  },
+  "Region_sales": {
+    "Region": {
+      "region_id": 63,
+      "region_name": "Midwest"
+    },
+    "Game_platform": {
+      "game_platform_id": 63,
+      "Game_publisher": {
+        "game_publisher_id": 63,
+        "Game": {
+          "game_id": 63,
+          "Category": {
+            "category_id": 63
+          },
+          "game_name": "Halo"
+        },
+        "Publisher": {
+          "publisher_id": 63,
+          "publisher_name": "Bandai Namco"
+        }
+      },
+      "Game_pubisher": {
+        "Game": {
+          "Category": {
+            "category_name": "Fielding"
+          }
+        }
+      },
+      "Platform": {
+        "platform_id": 63,
+        "platform_name": "Linux"
+      },
+      "release_year": 1977
+    },
+    "num_sales": 367841
+  }
+},
+{
+  "_id": {
+    "$oid": "661310eb6518c92ffaf5fb2f"
+  },
+  "Region_sales": {
+    "Region": {
+      "region_id": 71,
+      "region_name": "South"
+    },
+    "Game_platform": {
+      "game_platform_id": 71,
+      "Game_publisher": {
+        "game_publisher_id": 71,
+        "Game": {
+          "game_id": 71,
+          "Category": {
+            "category_id": 71
+          },
+          "game_name": "Halo"
+        },
+        "Publisher": {
+          "publisher_id": 71,
+          "publisher_name": "Electronic Arts"
+        }
+      },
+      "Game_pubisher": {
+        "Game": {
+          "Category": {
+            "category_name": "Base Running"
+          }
+        }
+      },
+      "Platform": {
+        "platform_id": 71,
+        "platform_name": "VR"
+      },
+      "release_year": 2009
+    },
+    "num_sales": 824808
+  }
+},
+{
+  "_id": {
+    "$oid": "661310eb6518c92ffaf5fb3f"
+  },
+  "Region_sales": {
+    "Region": {
+      "region_id": 87,
+      "region_name": "Southeast"
+    },
+    "Game_platform": {
+      "game_platform_id": 87,
+      "Game_publisher": {
+        "game_publisher_id": 87,
+        "Game": {
+          "game_id": 87,
+          "Category": {
+            "category_id": 87
+          },
+          "game_name": "Halo"
+        },
+        "Publisher": {
+          "publisher_id": 87,
+          "publisher_name": "Sony Interactive Entertainment"
+        }
+      },
+      "Game_pubisher": {
+        "Game": {
+          "Category": {
+            "category_name": "Pitching"
+          }
+        }
+      },
+      "Platform": {
+        "platform_id": 87,
+        "platform_name": "Mac"
+      },
+      "release_year": 2002
+    },
+    "num_sales": 490877
+  }
+},
+{
+  "_id": {
+    "$oid": "661310eb6518c92ffaf5fb42"
+  },
+  "Region_sales": {
+    "Region": {
+      "region_id": 90,
+      "region_name": "Islands"
+    },
+    "Game_platform": {
+      "game_platform_id": 90,
+      "Game_publisher": {
+        "game_publisher_id": 90,
+        "Game": {
+          "game_id": 90,
+          "Category": {
+            "category_id": 90
+          },
+          "game_name": "Halo"
+        },
+        "Publisher": {
+          "publisher_id": 90,
+          "publisher_name": "Ubisoft"
+        }
+      },
+      "Game_pubisher": {
+        "Game": {
+          "Category": {
+            "category_name": "Fielding"
+          }
+        }
+      },
+      "Platform": {
+        "platform_id": 90,
+        "platform_name": "Mobile"
+      },
+      "release_year": 1995
+    },
+    "num_sales": 560858
+  }
+},
+{
+  "_id": {
+    "$oid": "661310eb6518c92ffaf5fb44"
+  },
+  "Region_sales": {
+    "Region": {
+      "region_id": 92,
+      "region_name": "Central"
+    },
+    "Game_platform": {
+      "game_platform_id": 92,
+      "Game_publisher": {
+        "game_publisher_id": 92,
+        "Game": {
+          "game_id": 92,
+          "Category": {
+            "category_id": 92
+          },
+          "game_name": "Halo"
+        },
+        "Publisher": {
+          "publisher_id": 92,
+          "publisher_name": "Electronic Arts"
+        }
+      },
+      "Game_pubisher": {
+        "Game": {
+          "Category": {
+            "category_name": "Pitching"
+          }
+        }
+      },
+      "Platform": {
+        "platform_id": 92,
+        "platform_name": "Mac"
+      },
+      "release_year": 2003
+    },
+    "num_sales": 353004
+  }
+},
+{
+  "_id": {
+    "$oid": "661310eb6518c92ffaf5fb4c"
+  },
+  "Region_sales": {
+    "Region": {
+      "region_id": 100,
+      "region_name": "Great Lakes"
+    },
+    "Game_platform": {
+      "game_platform_id": 100,
+      "Game_publisher": {
+        "game_publisher_id": 100,
+        "Game": {
+          "game_id": 100,
+          "Category": {
+            "category_id": 100
+          },
+          "game_name": "Halo"
+        },
+        "Publisher": {
+          "publisher_id": 100,
+          "publisher_name": "Nintendo"
+        }
+      },
+      "Game_pubisher": {
+        "Game": {
+          "Category": {
+            "category_name": "Offense"
+          }
+        }
+      },
+      "Platform": {
+        "platform_id": 100,
+        "platform_name": "PlayStation"
+      },
+      "release_year": 2006
+    },
+    "num_sales": 164103
+  }
+}]

@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "661310eb6518c92ffaf5faf3"
+  },
+  "Region_sales": {
+    "Game_platform": {
+      "Game_publisher": {
+        "Game": {
+          "game_name": "Legend of Zelda"
+        }
+      }
+    },
+    "num_sales": 799242
+  }
+},
+{
+  "_id": {
+    "$oid": "661310eb6518c92ffaf5faf5"
+  },
+  "Region_sales": {
+    "Game_platform": {
+      "Game_publisher": {
+        "Game": {
+          "game_name": "Super Mario Bros"
+        }
+      }
+    },
+    "num_sales": 410434
+  }
+},
+{
+  "_id": {
+    "$oid": "661310eb6518c92ffaf5fb09"
+  },
+  "Region_sales": {
+    "Game_platform": {
+      "Game_publisher": {
+        "Game": {
+          "game_name": "Assassin's Creed"
+        }
+      }
+    },
+    "num_sales": 143513
+  }
+},
+{
+  "_id": {
+    "$oid": "661310eb6518c92ffaf5fb1c"
+  },
+  "Region_sales": {
+    "Game_platform": {
+      "Game_publisher": {
+        "Game": {
+          "game_name": "Assassin's Creed"
+        }
+      }
+    },
+    "num_sales": 355913
+  }
+},
+{
+  "_id": {
+    "$oid": "661310eb6518c92ffaf5fb34"
+  },
+  "Region_sales": {
+    "Game_platform": {
+      "Game_publisher": {
+        "Game": {
+          "game_name": "Call of Duty"
+        }
+      }
+    },
+    "num_sales": 235657
+  }
+},
+{
+  "_id": {
+    "$oid": "661310eb6518c92ffaf5fb3e"
+  },
+  "Region_sales": {
+    "Game_platform": {
+      "Game_publisher": {
+        "Game": {
+          "game_name": "Super Mario Bros"
+        }
+      }
+    },
+    "num_sales": 555125
+  }
+}]
