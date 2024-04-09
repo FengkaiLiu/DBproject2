@@ -8,7 +8,7 @@ const app = express();
 app.use(bodyParser.json());
 
 // MongoDB URI - replace with your database URI
-const db = 'mongodb://localhost:27017/myapp';
+const db = 'mongodb://localhost:27017/project2';
 
 // Connect to MongoDB
 mongoose.connect(db, { useNewUrlParser: true, useUnifiedTopology: true })
