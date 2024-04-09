@@ -54,8 +54,12 @@ this is the document from project1
 
 # node + express
 first cd to the folder contain the project
+
 use "npm init -y" to initial a file
+
 "npm install express mongoose body-parser" to install the required packages
+
 create the server file called "server.js"
+
 start the server "node server.js"
 
